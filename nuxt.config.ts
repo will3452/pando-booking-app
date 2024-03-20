@@ -2,7 +2,6 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/ui'], 
-  extends: ['@nuxt/ui-pro'], 
   ui: {
     primary: 'green',
     gray: 'cool'
